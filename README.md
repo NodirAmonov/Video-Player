@@ -8,4 +8,4 @@
  I can see how this project could be expanded even more to basically make a YouTube clone. 
  I think that that is an ambitious project though! Could be something interesting for me to do in the future.
 
- You can this project   [ View Live](https://drag-drop-update.netlify.app)
+ You can this project   [ View Live](https://custom-videoplayer-page.netlify.app)
